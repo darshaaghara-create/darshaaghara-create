@@ -24,6 +24,9 @@ Created an interactive quiz application with multiple categories, a 15-second ti
 **📚 3. Library Management System (Python)**
 Built a file-based application to manage book records. Implemented features for adding, removing, and viewing books with persistent data handling and validation to prevent duplicate entries.
 
+**🔥 4.Aurora Flame Restaurant Management System (React + Node.js + Express + MySQL)**
+Built a full-stack web application to manage restaurant operations. Implemented role-based dashboards, dynamic menu management, real-time order tracking, table bookings, and invoice generation with full CRUD operations and real-time data synchronization.
+
 ---
 
 ### 🛠️ Skills
