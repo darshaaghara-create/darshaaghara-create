@@ -21,7 +21,7 @@ Built a Java-based console banking application featuring file persistence via se
 
 **🧠 2. QuizMaster (JavaScript & Bootstrap)**
 
-Created an interactive quiz application with multiple categories, a 15-second timer per question, and a review system to help users evaluate their performance.
+The Quiz Application is a client-side web project built with HTML, CSS, and JavaScript. It includes an admin dashboard for viewing user and quiz data, a leaderboard with rankings and subject filters, and a results page with score animations and a scratch-card reward. Data like quiz history and scores is stored and synced using the browser's localStorage.
 
 **📚 3. Library Management System (Python)**
 
