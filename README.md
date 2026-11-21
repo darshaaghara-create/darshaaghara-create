@@ -1,5 +1,9 @@
 # Hi, I'm Darsha Aghara 👋
 
+**Software Developer in Progress | BCA Student at Darshan University | Java, Python & Web Dev**
+
+BCA student at Darshan University passionate about building practical applications using Java, Python, and Web Development. I'm a quick learner seeking opportunities to apply my skills and grow as a developer. 
+
 ### 👨‍💻 About Me
 - 💪 **Hardworking and motivated** person with a positive attitude and eagerness to learn.
 - 🤝 Works well both in a team and alone, **always aiming to achieve goals**.
