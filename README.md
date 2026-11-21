@@ -25,46 +25,46 @@ Built a file-based application to manage book records. Implemented features for 
 ### 🛠️ Skills
 
 **💻 Programming Languages**
-- ☕ Java
-- 🐍 Python
-- 🟨 JavaScript
+- Java
+- Python
+- JavaScript
 
 **🌐 Web Technologies**
-- 🎨 HTML & CSS
+- HTML & CSS
 
 **🗄️ Database & Tools**
-- 🗃️ MySQL
-- 🐙 Git
-- 🐱 GitHub
-- 📝 VS Code
+- MySQL
+- Git
+- GitHub
+- VS Code
 
 ---
 
 ### 🎓 Education
 
 **🎓 Bachelor of Computer Applications (Pursuing)** | Darshan University
-- 🏆 **Current CGPA:** 9.09
+- **Current CGPA:** 9.09
 
 **🏫 Higher Secondary (12th)** | Navyug Vidhyalay, 2021
-- 📊 **Percentage:** 98.02
+- **Percentage:** 98.02
 
 **🏫 Secondary (10th)** | Navyug Sankul, 2022
-- 📊 **Percentage:** 97.32
+- **Percentage:** 97.32
 
 ---
 
 ### 💡 Soft Skills
-- 🧩 Problem Solving
-- 🗣️ Communication
-- 🤝 Teamwork
-- 👥 Collaboration
-- 🧭 Leadership
-- 🚀 Quick Learning
+- Problem Solving
+- Communication
+- Teamwork
+- Collaboration
+- Leadership
+- Quick Learning
 
 ---
 
 ### 🎯 Interests
-- 🌐 Web Development
-- 💻 Software Development
-- ✈️ Traveling
-- 🎵 Music
+- Web Development
+- Software Development
+- Traveling
+- Music
