@@ -16,15 +16,19 @@ BCA student at Darshan University passionate about building practical applicatio
 ### 🚀 My Projects
 
 **🏦 1. Bank Management System (Java)**
+
 Developed a banking application to manage user accounts and financial transactions. Implemented secure login functionality, email and password validation, deposits, withdrawals, and balance verification.
 
 **🧠 2. QuizMaster (JavaScript & Bootstrap)**
+
 Created an interactive quiz application with multiple categories, a 15-second timer per question, and a review system to help users evaluate their performance.
 
 **📚 3. Library Management System (Python)**
-Built a file-based application to manage book records. Implemented features for adding, removing, and viewing books with persistent data handling and validation to prevent duplicate entries.
+
+Built a Java-based console banking application to manage user accounts and transactions. Implemented features for account creation, secure login, deposits, withdrawals, and loan applications, with validation for duplicate usernames and password strength. The system supports Saving and Current accounts with distinct withdrawal rules, tracks transaction history, and provides real-time balance updates.
 
 **🔥 4.Aurora Flame Restaurant Management System (React + Node.js + Express + MySQL)**
+
 Built a full-stack web application to manage restaurant operations. Implemented role-based dashboards, dynamic menu management, real-time order tracking, table bookings, and invoice generation with full CRUD operations and real-time data synchronization.
 
 ---
