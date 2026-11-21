@@ -17,7 +17,7 @@ BCA student at Darshan University passionate about building practical applicatio
 
 **🏦 1. Bank Management System (Java)**
 
-Developed a banking application to manage user accounts and financial transactions. Implemented secure login functionality, email and password validation, deposits, withdrawals, and balance verification.
+Built a Java-based console banking application featuring file persistence via serialization, SHA-256 password hashing, and robust input validation to prevent crashes. It supports Saving and Current accounts with distinct withdrawal and overdraft rules, along with deposits, loans, transaction history, and password changes—structured using clean OOP principles like interfaces, abstract classes, and inheritance.
 
 **🧠 2. QuizMaster (JavaScript & Bootstrap)**
 
