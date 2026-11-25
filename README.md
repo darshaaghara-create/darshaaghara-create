@@ -31,11 +31,11 @@ I am a quick learner, a strong team player, and I am actively seeking Web or Sof
 
 ### 🚀 Featured Projects
 
-<summary><b>🏦 Bank Management System (Java)</b></summary>
+- <summary><b>🏦 Bank Management System (Java)</b></summary>
 
-<summary><b>🧠 QuizMaster (JavaScript & Bootstrap)</b></summary>
+- <summary><b>🧠 QuizMaster (JavaScript & Bootstrap)</b></summary>
 
-<summary><b>📚 Library Management System (Python)</b></summary>
+- <summary><b>📚 Library Management System (Python)</b></summary>
 
 ---
 
