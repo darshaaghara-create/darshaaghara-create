@@ -46,5 +46,5 @@ I am a quick learner, a strong team player, and I am actively seeking Web or Sof
 
 ---
 <p align="center">
-  <b>Thanks for stopping by! Let's build something amazing. 💙</b>
+  <b>Thanks for stopping by! Let's build something amazing. </b>
 </p>
