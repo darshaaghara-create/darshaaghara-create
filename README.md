@@ -33,20 +33,14 @@ I am a quick learner, a strong team player, and I am actively seeking Web or Sof
 
 <details>
 <summary><b>🏦 Bank Management System (Java)</b></summary>
-<br>
-Developed a secure banking application utilizing Object-Oriented Programming (OOP) principles. Implemented secure login functionality, email/password validation, and core financial operations including deposits, withdrawals, and real-time balance verification.
 </details>
 
 <details>
 <summary><b>🧠 QuizMaster (JavaScript & Bootstrap)</b></summary>
-<br>
-Created a fully interactive quiz application with multiple categories. Engineered a 15-second timer per question and a dynamic review system to help users evaluate their performance.
 </details>
 
 <details>
 <summary><b>📚 Library Management System (Python)</b></summary>
-<br>
-Built a file-based application to manage book records with persistent data handling. Implemented robust validation features to prevent duplicate entries and a formatted viewing system for book availability.
 </details>
 
 ---
