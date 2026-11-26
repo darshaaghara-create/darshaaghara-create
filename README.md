@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Darsha Aghara 👋</h1>
-<h3 align="center">Aspiring Software Developer | BCA Student @ Darshan University</h3>
+<h3 align="center">Aspiring Software Developer | BCA Student at Darshan University</h3>
 
 <p align="center">
   <i>"Building practical solutions with clean code and a growth mindset."</i>
