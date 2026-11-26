@@ -12,11 +12,6 @@ I am a highly motivated **BCA student** with a proven track record of academic e
 
 I am a quick learner, a strong team player, and I am actively seeking Web or Software Development roles where I can contribute and grow.
 
-### 🏆 Academic Highlights
-- **🎓 Bachelor of Computer Applications (BCA)** | Darshan University | *Current CGPA: 9.09*
-- **🏫 Higher Secondary (12th)** | Navyug Vidhyalay | *Percentage: 98.02%*
-- **🏫 Secondary (10th)** | Navyug Sankul | *Percentage: 97.32%*
-
 ---
 
 ### 🛠️ My Tech Stack
